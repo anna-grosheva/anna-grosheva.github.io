@@ -287,7 +287,7 @@ span {
         text-align: center;
     }
     .information__place-pic {
-        margin-right: 55px;
+        margin-right: 10%;
     }
     .information__lang-cards {
         flex-wrap: wrap;
@@ -301,6 +301,7 @@ span {
         justify-content: space-evenly;
     }
     .information__hobby {
-        width: 40%;
+        width: 178px;
+        margin: 14px;
     }
 }
